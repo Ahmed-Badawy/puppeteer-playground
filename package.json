@@ -1,0 +1,10 @@
+{
+  "name": "puppeteer-scrapper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Ahmed-Badawy/puppeteer-scrapper.git",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^3.0.0"
+  }
+}
