@@ -5,6 +5,13 @@
   "repository": "https://github.com/Ahmed-Badawy/puppeteer-scrapper.git",
   "license": "MIT",
   "dependencies": {
+    "jest": "^25.3.0",
     "puppeteer": "^3.0.0"
+  },
+  "devDependencies": {
+    "jest-image-snapshot": "^3.1.0"
+  },
+  "scripts": {
+    "test": "jest"
   }
 }
